@@ -1,2 +1,3 @@
-# sub
-some karaoke effect subtitle or not
+# 字幕
+一般会上传ass卡拉OK特效歌词字幕
+当然也可能顺便传点其他东西
